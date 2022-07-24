@@ -4,6 +4,7 @@ rencana arka belajar
 - fisika
 - biologi
 - belajar networking
+- belajar python
+- cyber security
 - c++
-- python 
 
