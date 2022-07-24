@@ -3,7 +3,6 @@ rencana arka belajar
 
 - fisika
 - biologi
-- kimia
 - belajar networking
 - belajar python
 - cyber security
