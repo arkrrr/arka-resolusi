@@ -3,6 +3,7 @@ rencana arka belajar
 
 - fisika
 - biologi
-- kimia
 - belajar networking
+- c++
+- python 
 
