@@ -5,4 +5,6 @@ rencana arka belajar
 - biologi
 - kimia
 - belajar networking
+- belajar python
+- cyber security
 
