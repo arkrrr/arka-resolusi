@@ -7,4 +7,5 @@ rencana arka belajar
 - belajar networking
 - belajar python
 - cyber security
+- c++
 
